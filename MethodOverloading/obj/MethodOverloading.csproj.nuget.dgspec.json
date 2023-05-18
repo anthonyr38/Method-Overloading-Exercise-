@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Desktop\\new\\MethodOverloading\\MethodOverloading\\MethodOverloading.csproj": {}
+    "C:\\Users\\fulls\\OneDrive\\Desktop\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Desktop\\new\\MethodOverloading\\MethodOverloading\\MethodOverloading.csproj": {
+    "C:\\Users\\fulls\\OneDrive\\Desktop\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\MethodOverloading\\MethodOverloading\\MethodOverloading.csproj",
+        "projectUniqueName": "C:\\Users\\fulls\\OneDrive\\Desktop\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
         "projectName": "MethodOverloading",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\MethodOverloading\\MethodOverloading\\MethodOverloading.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\MethodOverloading\\MethodOverloading\\obj\\",
+        "projectPath": "C:\\Users\\fulls\\OneDrive\\Desktop\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\MethodOverloading.csproj",
+        "packagesPath": "C:\\Users\\fulls\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fulls\\OneDrive\\Desktop\\repos\\Method-Overloading-Exercise-\\MethodOverloading\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\fulls\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
